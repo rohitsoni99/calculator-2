@@ -1,0 +1,5 @@
+{
+  "name": "OmniCalc AI",
+  "description": "A sophisticated multi-functional calculator featuring standard and scientific modes, coupled with a Gemini-powered AI assistant for solving complex word problems and explaining mathematical concepts.",
+  "requestFramePermissions": []
+}
